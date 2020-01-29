@@ -11,7 +11,7 @@ et je lui redemande à chaque fois.
 
 int main()
 {
-    string a="Bonjour";
+    string a="Bonjour !";
 
     cout<<"Bonjour"<< endl;
     cout<<"entrer votre reponse: "<<endl;
